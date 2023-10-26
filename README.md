@@ -1,5 +1,5 @@
 <h1>Welcome to my portfolio website!</h1>
-<p>This site serves as a showcase of my work, skills, and passion for [Your Field or Interests].</p>
+<p>This site serves as a showcase of my work, skills, and passion for Full-Stack web Development.</p>
 
 <p>Feel free to explore and get in touch. Thanks for visiting, and I look forward to connecting with you!</p>
 <h2>Tech Stack</h2>
