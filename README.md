@@ -7,7 +7,7 @@
       <li>React</li>
       <li>Redux</li>
       <li>react-router-dom</li>
-      <!-- Add more technologies here as needed -->
+      <li>Chakra UI</li>
   </ul>
 
 <p>Visit the website: <a href="kamalakanta01">https://kamalakanta01.github.io/</a></p>
